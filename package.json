@@ -1,0 +1,19 @@
+{
+  "name": "iw-twitchy-interface",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YurikoEX/iw-twitchy-interface.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YurikoEX/iw-twitchy-interface/issues"
+  },
+  "homepage": "https://github.com/YurikoEX/iw-twitchy-interface#readme"
+}
