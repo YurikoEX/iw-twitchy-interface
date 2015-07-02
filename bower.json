@@ -1,0 +1,19 @@
+{
+  "name": "iw-twitchy-interface",
+  "version": "0.0.1",
+  "homepage": "https://github.com/YurikoEX/iw-twitchy-interface",
+  "authors": [
+    "josh <yurikoex@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "typescript": {
+    "definition": "twitchy.d.ts"
+  }
+}
